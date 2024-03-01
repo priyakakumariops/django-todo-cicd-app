@@ -2,7 +2,10 @@ all file added
 # django-todo
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![Screenshot (307)](https://github.com/priyakakumariops/django-todo-cicd-app/assets/136331805/abdcd300-ea34-4135-bdee-b6ab0a702c39)
+
+![1700676290779](https://github.com/priyakakumariops/django-todo-cicd-app/assets/136331805/8969efac-7e04-477e-9d56-609365f14f49)
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
